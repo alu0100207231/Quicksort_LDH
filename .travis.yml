@@ -4,7 +4,7 @@ jdk:
   - oraclejdk8
 addons:
   sonarcloud:
-    organization: "alu0100207231-github" # the key of the org you chose at step #3
+    organization: "alu0100207231@github" # the key of the org you chose at step #3
     token:
       secure: 12371a8610c365cfc9b822a3d550f3d7934fedd8 # encrypted value of your token
 script:
